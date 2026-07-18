@@ -7,9 +7,9 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.keys import Keys
 
 url='https://app.100daysofpython.dev/services/share-a-naan/welcome'
-similar_account='elaineducasse'
-username='kshm910@gmail.com'
-passw='Tj683UpZoHFwcm2Z'
+similar_account='target username'
+username='your@gmail.com'
+passw='yourpass'
 
 class InstaFollower:
     def __init__(self):
