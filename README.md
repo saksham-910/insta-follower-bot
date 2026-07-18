@@ -27,7 +27,7 @@ passw = 'your_password'
 ```
 3. Run the script:
 ```
-python main.py
+insta follower bot.py
 ```
 
 ## Concepts used
